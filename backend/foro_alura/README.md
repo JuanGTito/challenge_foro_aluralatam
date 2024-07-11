@@ -15,8 +15,8 @@
      <img width="250" heigth="250" src="src\main\resources\img-readme\foro_alura_img.png">
 </p>
 
-👨🏻‍💻 <strong>Gerson Escobedo Pérez </strong></br>
-<a href="https://www.linkedin.com/in/gerson-escobedo/" target="_blank">
+👨🏻‍💻 <strong>Juan Tito </strong></br>
+<a href="https://www.linkedin.com/in/juan-gedeon-tito-moya-b68728291/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Índice
@@ -120,10 +120,6 @@ Listo
 ☕ Usar Java versión 8 o superior para compatibilidad. </br></br>
 📝 Recomiendo usar el editor de Intellij</br></br>
 
-
-# 💙 Personas Contribuyentes
-## Autores
-[<img src="https://avatars.githubusercontent.com/u/79103450?v=4" width=115><br><sub>Gerson Escobedo</sub>](https://github.com/gerson121295)
 
 ## Gracias
 
